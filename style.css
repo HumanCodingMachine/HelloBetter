@@ -1,4 +1,9 @@
 @import url('style.css');
+@font-face {
+font-family: "SF Display";
+font-weight: 700;
+src: url("https://sf.abarba.me/SF-UI-Display-Bold.otf");
+}
 .rainbow-text {
   background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
   color: transparent;
