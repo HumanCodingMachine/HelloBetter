@@ -1,9 +1,8 @@
 @import url('style.css');
 ###My CSS Here###
-@font-face {
-font-family: "SF Display";
-font-weight: 700;
-src: url("https://sf.abarba.me/SF-UI-Display-Bold.otf");
+@import url('https://www.fontify.me/wf/e6a3c17c14d6295d075e29aa38e455ce');
+body{
+font-family: font92720;
 }
 
 .rainbow-text {
